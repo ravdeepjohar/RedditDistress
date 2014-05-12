@@ -1,0 +1,24 @@
+\select@language {american}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Background}{4}{section.2}
+\contentsline {section}{\numberline {3}Related Work}{4}{section.3}
+\contentsline {section}{\numberline {4}NLP Techniques}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Text Normalization}{5}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Bag of Words}{6}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}\emph {n}-gram Modeling}{6}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}Term Frequency-Inverse Document Frequency}{6}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Latent Dirichlet Allocation}{7}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Support Vector Machine}{7}{subsection.4.5}
+\contentsline {section}{\numberline {5}Dataset}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Human Subject Research}{7}{subsection.5.1}
+\contentsline {section}{\numberline {6}Current Work}{8}{section.6}
+\contentsline {subsection}{\numberline {6.1}Annotation}{8}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Modeling and Results}{9}{subsection.6.2}
+\contentsline {section}{\numberline {7}Solution Design and Implementation}{10}{section.7}
+\contentsline {subsection}{\numberline {7.1}Visulizations}{10}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Social Network}{10}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Modeling for Reddit Data}{10}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Outcome}{10}{subsection.7.4}
+\contentsline {section}{\numberline {8}Roadmap}{10}{section.8}
+\contentsline {subsection}{\numberline {8.1}Deliverables}{10}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Timeline}{10}{subsection.8.2}

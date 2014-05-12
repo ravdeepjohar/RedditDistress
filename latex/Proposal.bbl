@@ -1,0 +1,191 @@
+\begin{thebibliography}{}
+
+\bibitem[Aizerman et~al., 1964]{Aizerman67theoretical}
+Aizerman, M.~A., Braverman, E.~A., and Rozonoer, L. (1964).
+\newblock Theoretical foundations of the potential function method in pattern
+  recognition learning.
+\newblock In {\em Automation and Remote Control,}, number~25 in Automation and
+  Remote Control,, pages 821--837.
+
+\bibitem[Asur and Huberman, 2010]{asur2010predicting}
+Asur, S. and Huberman, B.~A. (2010).
+\newblock Predicting the future with social media.
+\newblock In {\em Web Intelligence and Intelligent Agent Technology (WI-IAT),
+  2010 IEEE/WIC/ACM International Conference on}, volume~1, pages 492--499.
+  IEEE.
+
+\bibitem[Baccianella et~al., 2010]{Baccianella}
+Baccianella, S., Esuli, A., and Sebastiani, F. (2010).
+\newblock Sentiwordnet 3.0: An enhanced lexical resource for sentiment analysis
+  and opinion mining.
+\newblock In {\em in Proc. of LREC}.
+
+\bibitem[Blei et~al., 2003]{Blei}
+Blei, D.~M., Ng, A.~Y., and Jordan, M.~I. (2003).
+\newblock Latent {D}irichlet allocation.
+\newblock {\em Journal Machince Learning Research}, 3:993--1022.
+
+\bibitem[Bollen et~al., 2011]{bollen2011twitter}
+Bollen, J., Mao, H., and Zeng, X. (2011).
+\newblock Twitter mood predicts the stock market.
+\newblock {\em Journal of Computational Science}, 2(1):1--8.
+
+\bibitem[Bruffaerts et~al., 2011]{bruffaerts2011treatment}
+Bruffaerts, R., Demyttenaere, K., Hwang, I., Chiu, W.-T., Sampson, N., Kessler,
+  R.~C., Alonso, J., Borges, G., de~Girolamo, G., de~Graaf, R., et~al. (2011).
+\newblock Treatment of suicidal people around the world.
+\newblock {\em The British Journal of Psychiatry}, 199(1):64--70.
+
+\bibitem[Choudhury et~al., 2013]{ChoudhuryGCH13}
+Choudhury, M.~D., Gamon, M., Counts, S., and Horvitz, E. (2013).
+\newblock Predicting depression via social media.
+\newblock In Kiciman, E., Ellison, N.~B., Hogan, B., Resnick, P., and Soboroff,
+  I., editors, {\em ICWSM}. The AAAI Press.
+
+\bibitem[Cortes and Vapnik, 1995]{cortes}
+Cortes, C. and Vapnik, V. (1995).
+\newblock Support-vector networks.
+\newblock {\em Machine Learning}, 20(3):273--297.
+
+\bibitem[Crosby et~al., 2011]{crosby2011self}
+Crosby, A.~E., Ortega, L., and Melanson, C. (2011).
+\newblock {\em Self-directed violence surveillance: Uniform definitions and
+  recommended data elements}.
+\newblock Centers for Disease Control and Prevention, National Center for
+  Injury Prevention and Control, Division of Violence Prevention.
+
+\bibitem[Gayo-Avello, 2013]{gayo2013meta}
+Gayo-Avello, D. (2013).
+\newblock A meta-analysis of state-of-the-art electoral prediction from twitter
+  data.
+\newblock {\em Social Science Computer Review}, 31(6):649--679.
+
+\bibitem[Go et~al., 2009]{Go}
+Go, A., Bhayani, R., and Huang, L. (2009).
+\newblock Twitter sentiment classification using distant supervision.
+\newblock {\em Processing}, pages 1--6.
+
+\bibitem[Golbeck et~al., 2011]{golbeck2011predicting}
+Golbeck, J., Robles, C., Edmondson, M., and Turner, K. (2011).
+\newblock Predicting personality from twitter.
+\newblock In {\em Privacy, security, risk and trust (passat), 2011 ieee third
+  international conference on and 2011 ieee third international conference on
+  social computing (socialcom)}, pages 149--156. IEEE.
+
+\bibitem[Horowitz and Ballard, 2009]{horowitz2009suicide}
+Horowitz, L.~M. and Ballard, E.~D. (2009).
+\newblock Suicide screening in schools, primary care and emergency departments.
+\newblock {\em Current Opinion in Pediatrics}, 21(5):620--627.
+
+\bibitem[Jashinsky et~al., 2013]{Jay}
+Jashinsky, J., Burton, S.~H., Hanson, C.~L., West, J., Giraud-Carrier, C.,
+  Barnes, M.~D., and Argyle, T. (2013).
+\newblock Tracking suicide risk factors through {T}witter in the {US}.
+\newblock {\em Crisis}, pages 1--9.
+
+\bibitem[Kincaid et~al., 1975]{kincaid1975derivation}
+Kincaid, J.~P., Fishburne~Jr, R.~P., Rogers, R.~L., and Chissom, B.~S. (1975).
+\newblock Derivation of new readability formulas (automated readability index,
+  fog count and flesch reading ease formula) for navy enlisted personnel.
+\newblock Technical report, DTIC Document.
+
+\bibitem[Kung et~al., 2008]{deaths}
+Kung, H.-C., Hoyert, D.~L., Xu, J., and Murphy, S.~L. (2008).
+\newblock Deaths: final data for 2005.
+\newblock {\em Natl Vital Stat Rep}, 56(10):1--120.
+
+\bibitem[Lampos and Cristianini, 2010]{lampocris}
+Lampos, V. and Cristianini, N. (2010).
+\newblock Tracking the flu pandemic by monitoring the social web.
+\newblock In {\em Cognitive Information Processing (CIP), 2010 2nd
+  International Workshop on}, pages 411--416.
+
+\bibitem[Mann et~al., 1999]{mann1999toward}
+Mann, J.~J., Waternaux, C., Haas, G.~L., and Malone, K.~M. (1999).
+\newblock Toward a clinical model of suicidal behavior in psychiatric patients.
+\newblock {\em American Journal of Psychiatry}, 156(2):181--189.
+
+\bibitem[Nock et~al., 2008]{nock2008suicide}
+Nock, M.~K., Borges, G., Bromet, E.~J., Cha, C.~B., Kessler, R.~C., and Lee, S.
+  (2008).
+\newblock Suicide and suicidal behavior.
+\newblock {\em Epidemiologic Reviews}, 30(1):133--154.
+
+\bibitem[Pang et~al., 2002]{Pang}
+Pang, B., Lee, L., and Vaithyanathan, S. (2002).
+\newblock Thumbs up?: Sentiment classification using machine learning
+  techniques.
+\newblock In {\em Proceedings of the ACL-02 Conference on Empirical Methods in
+  Natural Language Processing - Volume 10}, EMNLP '02, pages 79--86,
+  Stroudsburg, PA, USA. Association for Computational Linguistics.
+
+\bibitem[Pennebaker et~al., 2001]{pennebaker2001linguistic}
+Pennebaker, J.~W., Francis, M.~E., and Booth, R.~J. (2001).
+\newblock Linguistic inquiry and word count: Liwc 2001.
+\newblock {\em Mahway: Lawrence Erlbaum Associates}, 71:2001.
+
+\bibitem[Pestian et~al., 2010]{Pestian2}
+Pestian, J., Nasrallah, H., Matykiewicz, P., Bennett, A., and Leenaars, A.
+  (2010).
+\newblock Suicide note classification using natural language processing: A
+  content analysis.
+\newblock {\em Biomedical Informatics Insights}, 3:19--28.
+
+\bibitem[Pestian et~al., 2008]{pestinaetal2008}
+Pestian, J.~P., Matykiewicz, P., and Grupp-Phelan, J. (2008).
+\newblock Using natural language processing to classify suicide notes.
+\newblock In {\em BioNLP 2008: Current Trends in Biomedical Natural Language
+  Processing, Columbus, Ohio}, pages 96--97.
+
+\bibitem[Prieto et~al., 2014]{ponePrieto}
+Prieto, V.~M., Matos, S., Álvarez, M., Cacheda, F., and Oliveira, J.~L.
+  (2014).
+\newblock Twitter: A good place to detect health conditions.
+\newblock {\em PLoS ONE}, 9(1):e86191.
+
+\bibitem[Read, 2005]{read2005using}
+Read, J. (2005).
+\newblock Using emoticons to reduce dependency in machine learning techniques
+  for sentiment classification.
+\newblock In {\em Proceedings of the ACL Student Research Workshop}, pages
+  43--48. Association for Computational Linguistics.
+
+\bibitem[Ryan et~al., 2010]{ryan2010universal}
+Ryan, M.~L., Shochet, I.~M., and Stallman, H.~M. (2010).
+\newblock Universal online interventions might engage psychologically
+  distressed university students who are unlikely to seek formal help.
+\newblock {\em Advances in Mental Health}, 9(1):73--83.
+
+\bibitem[Snyder and Barzilay, 2007]{Snyder07multipleaspect}
+Snyder, B. and Barzilay, R. (2007).
+\newblock Multiple aspect ranking using the good grief algorithm.
+\newblock In {\em In Proceedings of the Human Language Technology Conference of
+  the North American Chapter of the Association of Computational Linguistics
+  (HLT-NAACL}, pages 300--307.
+
+\bibitem[Song et~al., 2010]{song2010limits}
+Song, C., Qu, Z., Blumm, N., and Barab{\'a}si, A.-L. (2010).
+\newblock Limits of predictability in human mobility.
+\newblock {\em Science}, 327(5968):1018--1021.
+
+\bibitem[Stone and Hunt, 1963]{stone}
+Stone, P.~J. and Hunt, E.~B. (1963).
+\newblock A computer approach to content analysis: Studies using the general
+  inquirer system.
+\newblock In {\em Proceedings of the May 21-23, 1963, Spring Joint Computer
+  Conference}, AFIPS '63 (Spring), pages 241--256, New York, NY, USA. ACM.
+
+\bibitem[Turney, 2002]{Turney}
+Turney, P.~D. (2002).
+\newblock Thumbs up or thumbs down?: Semantic orientation applied to
+  unsupervised classification of reviews.
+\newblock In {\em Proceedings of the 40th Annual Meeting on Association for
+  Computational Linguistics}, ACL '02, pages 417--424, Stroudsburg, PA, USA.
+  Association for Computational Linguistics.
+
+\bibitem[{World Health Organisation}, 2002]{who}
+{World Health Organisation} (2002).
+\newblock {\em {World Report on Violence and Health: Summary.}}
+\newblock WHO, Geneva.
+
+\end{thebibliography}

@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Background}{}% 2
+\BOOKMARK [1][-]{section.3}{Related Work}{}% 3
+\BOOKMARK [1][-]{section.4}{NLP Techniques}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Text Normalization}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Bag of Words}{section.4}% 6
+\BOOKMARK [3][-]{subsubsection.4.2.1}{n-gram Modeling}{subsection.4.2}% 7
+\BOOKMARK [2][-]{subsection.4.3}{Term Frequency-Inverse Document Frequency}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.4}{Latent Dirichlet Allocation}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.5}{Support Vector Machine}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Dataset}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Human Subject Research}{section.5}% 12
+\BOOKMARK [1][-]{section.6}{Current Work}{}% 13
+\BOOKMARK [2][-]{subsection.6.1}{Annotation}{section.6}% 14
+\BOOKMARK [2][-]{subsection.6.2}{Modeling and Results}{section.6}% 15
+\BOOKMARK [1][-]{section.7}{Solution Design and Implementation}{}% 16
+\BOOKMARK [2][-]{subsection.7.1}{Visulizations}{section.7}% 17
+\BOOKMARK [2][-]{subsection.7.2}{Social Network}{section.7}% 18
+\BOOKMARK [2][-]{subsection.7.3}{Modeling for Reddit Data}{section.7}% 19
+\BOOKMARK [2][-]{subsection.7.4}{Outcome}{section.7}% 20
+\BOOKMARK [1][-]{section.8}{Roadmap}{}% 21
+\BOOKMARK [2][-]{subsection.8.1}{Deliverables}{section.8}% 22
+\BOOKMARK [2][-]{subsection.8.2}{Timeline}{section.8}% 23
